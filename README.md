@@ -1,4 +1,4 @@
-# yet-another-pytorch-tutorial
+# PyTorch 非典型教程
 
 > Learn PyTorch the ridiculous way
 > 
